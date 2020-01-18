@@ -7,6 +7,7 @@
   link:: import 'link.libsonnet',
   annotation:: import 'annotation.libsonnet',
   graphPanel:: import 'graph_panel.libsonnet',
+  barGaugePanel:: import 'bargauge_panel.libsonnet',
   tablePanel:: import 'table_panel.libsonnet',
   singlestat:: import 'singlestat.libsonnet',
   pieChartPanel:: import 'pie_chart_panel.libsonnet',
